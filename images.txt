@@ -6,3 +6,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 openjdk:8-jdk-alpine
 alpine/git
+# 制作证件照
+linzeyi/hivision_idphotos
