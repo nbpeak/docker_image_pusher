@@ -7,6 +7,7 @@ nginx
 openjdk:8-jdk-alpine
 openjdk:17-jdk-alpine
 centos:7
+zookeeper:latest
 alpine:latest
 # 制作证件照
 linzeyi/hivision_idphotos
