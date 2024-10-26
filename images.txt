@@ -11,3 +11,4 @@ zookeeper:latest
 alpine:latest
 # 制作证件照
 linzeyi/hivision_idphotos
+gitlab/gitlab-ce:11.11.3-ce.0
