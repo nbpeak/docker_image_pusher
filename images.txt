@@ -4,6 +4,7 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+cloudflare/cloudflared:latest
 openjdk:8-jdk-alpine
 openjdk:17-jdk-alpine
 centos:7
