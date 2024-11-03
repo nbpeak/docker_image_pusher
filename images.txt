@@ -1,3 +1,4 @@
+vaultwarden/server:latest
 b3log/siyuan
 redis:7.4.1
 nginx
