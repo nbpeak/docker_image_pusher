@@ -1,17 +1,17 @@
 vaultwarden/server:latest
 b3log/siyuan
-redis:7.4.1
-nginx
+--platform=linux/arm64/v8 redis:7.4.1
+--platform=linux/arm64/v8 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 cloudflare/cloudflared:latest
-openjdk:8-jdk-alpine
-openjdk:17-jdk-alpine
-centos:7
-zookeeper:latest
+--platform=linux/arm64/v8 openjdk:8-jdk-alpine
+--platform=linux/arm64/v8 openjdk:17-jdk-alpine
+--platform=linux/arm64/v8 centos:7
+--platform=linux/arm64/v8 zookeeper:latest
 alpine:latest
 # 制作证件照
 linzeyi/hivision_idphotos
