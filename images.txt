@@ -9,7 +9,7 @@ b3log/siyuan
 #--platform=linux/arm64 xiaoyaliu/alist
 cloudflare/cloudflared:latest
 --platform=linux/arm64/v8 openjdk:8-jdk-alpine
---platform=linux/arm64/v8 openjdk:17-jdk-alpine
+--platform=linux/arm64/v8 openjdk:17-ea-17-jdk-oraclelinux8
 --platform=linux/arm64/v8 centos:7
 --platform=linux/arm64/v8 zookeeper:latest
 alpine:latest
