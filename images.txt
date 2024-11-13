@@ -1,3 +1,4 @@
+--platform=linux/arm64 hxsoong/kylin:v10-sp3
 --platform=linux/arm64/v8 fedora:40
 vaultwarden/server:latest
 b3log/siyuan
